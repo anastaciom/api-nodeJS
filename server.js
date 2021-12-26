@@ -15,6 +15,10 @@ const PORT = 8080
 
 //ROUTES
 
+app.get('/', (req, res)=>{
+    res.status(404).json({error: 'Page not found'})
+})
+
 app.get('/users', (req, res)=>{
     res.json(users)
 })
