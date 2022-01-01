@@ -20,7 +20,7 @@
 
 ## No terminal, clone o projeto:
 
-         clone git: https://github.com/menezes11/api-nodeJS.git
+         clone git: https://github.com/anastaciom/api-nodeJS.git
 
 ## Entre na pasta do projeto:
 
